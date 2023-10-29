@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mthw-susko
-- 👀 I’m interested in full stack development and inovating the world using software
+- 👀 I’m interested in UI/UX Design, Front-end development, and inovating the world using software
 - 🌱 I’m currently learning at Queen's University
 - 📫 How to reach me:
   - matthew@susko.ca
